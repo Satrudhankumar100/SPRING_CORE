@@ -1,0 +1,12 @@
+package kumar;
+
+public class Test {
+	
+	private String driver;
+	private String url;
+	
+	public Test() {
+		super();
+	}
+
+}
