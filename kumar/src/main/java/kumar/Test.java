@@ -10,6 +10,7 @@ public class Test {
 		Object ob = ac.getBean("mobj");
 		
 		System.out.print(ob);
+		System.out.print(ob);
 	}
 	
 
